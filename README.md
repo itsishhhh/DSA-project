@@ -1,10 +1,11 @@
-Sudoku Solver
+# Sudoku Solver
+
 Mini project for DSA
 
-Introduction
+# Introduction
 Sudoku solver is a program that prompts the user to enter the initial state of the puzzle and solves it using backtracking algorithm.
 
-Concepts of DSA used:
+# Concepts of DSA used:
 
 •	Arrays
 
